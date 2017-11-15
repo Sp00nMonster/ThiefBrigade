@@ -1,3 +1,3 @@
 # ThiefBrigade
-The best FHS game
-Just to know this game will always be either buggy or unfinished. This is just a project for school that a bunch of kids made
+The best FHS game ever... Hopefully...
+Just to know this game will most likely always be either buggy or unfinished. This is just a project for school that a bunch of kids made for a good grade.
